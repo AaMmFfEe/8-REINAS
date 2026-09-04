@@ -1,0 +1,29 @@
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 400px; /* Esta propiedad solo aplica en las tablas */
+    height: 50px; /* Esta propiedad solo aplica en las celdas */
+}
+
+tr:nth-child(even)
+td:nth-child(even),
+tr:nth-child(odd)
+td:nth-child(odd){
+    background-color: black;
+}
+
+tr:nth-child(odd)
+td:nth-child(even),
+tr:nth-child(even)
+td:nth-child(odd){
+    background-color: hotpink;
+}
+
+#reinasContador{
+    font-size: 30px;
+}
+
+#reinasGanador{
+    font-size: 50px;
+    color: hotpink;
+}
