@@ -15,6 +15,7 @@
 * Bloquear reinas en lugares donde choquen y se puedan comer entre sí
 * Marca cuando se han insertado las 8 reinas correctamente.
 
+## Capturas de pantalla 
 <img width="995" height="675" alt="Screenshot (1558)" src="https://github.com/user-attachments/assets/538dd7fc-cbc3-4f1d-9906-5d4fa4f89815" />
 
 
