@@ -3,7 +3,7 @@
   <h1 align="center">Simulación: 8 Reinas</h1>
 </div>
 
-Acerca de
+## Acerca de
 * Esta simulación de un problema de las 8 reinas en ajedrez utiliza HTML y CSS para la creación de una interfaz gráfica en la que el usuario puede agregar y quitar reinas en un tablero, se bloquean las inserciones si es un espacio en donde las reinas se pueden comer entre sí.
 * Desarrollado como trabajo en la clase _Simulación de Sistemas para Ingeniería_,
 * Creado bajo la tutoría del profesor José Humberto Abril García por los integrantes:
