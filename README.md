@@ -1,7 +1,6 @@
 <div align="center">
   <img width="3222" height="215" alt="ezgif-359bae710ef0ed" src="https://github.com/user-attachments/assets/2c988d98-9bab-4002-815c-2f545252882b" />
   <h1 align="center">Simulación: 8 Reinas</h1>
-  <h4 align="center">Foro elaborado en Java y MySQL.</h4>
 </div>
 
 
