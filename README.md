@@ -1,6 +1,5 @@
 <div align="center">
   <img width="400" height="45" alt="divcute" src="https://github.com/user-attachments/assets/cb7bdffa-8653-4cf9-8702-f6418f3904d3" />
-/>
   <h1 align="center">Simulación: 8 Reinas</h1>
   <h4 align="center">Foro elaborado en Java y MySQL.</h4>
 </div>
